@@ -1,0 +1,137 @@
+## Información general del proyecto
+- Proyecto: 
+- Product Owner:
+- Scrum Master:
+- Equipo:
+- Fecha de inicio del ciclo (Sprint 1): YYYY-MM-DD
+- Longitud de sprint: X semanas (p. ej. 2 semanas)
+
+---
+
+## Resumen de sprints
+- Sprint 1: Fechas: YYYY-MM-DD → YYYY-MM-DD  
+  Objetivo del sprint 1: (Breve en 1-2 líneas)
+- Sprint 2: Fechas: YYYY-MM-DD → YYYY-MM-DD  
+  Objetivo del sprint 2: (Breve en 1-2 líneas)
+
+---
+
+## Capacidad y velocidad
+- Capacidad por persona (horas/sprint): 
+- Días no laborables/ausencias previstas en el periodo:
+- Velocidad objetivo/estimada (puntos por sprint): 
+
+---
+
+## Plantilla de Backlog por sprint
+Rellena cada historia con su prioridad, estimación y tareas.
+
+Sprint 1
+| ID | Historia de usuario | Descripción breve | Criterios de aceptación | Estimación (puntos) | Prioridad | Responsable | Estado |
+|-----|--------------------|-------------------|-------------------------|---------------------:|----------:|-----------|-------|
+| US-1 | | | | | | | To Do |
+| US-2 | | | | | | | To Do |
+
+Tareas (por historia)
+- US-1:
+  - T1: (descripción) — Responsable — Estimación (h)
+  - T2: ...
+- US-2:
+  - T1: ...
+  
+Sprint 2
+| ID | Historia de usuario | Descripción breve | Criterios de aceptación | Estimación (puntos) | Prioridad | Responsable | Estado |
+|-----|--------------------|-------------------|-------------------------|---------------------:|----------:|-----------|-------|
+| US-3 | | | | | | | Backlog |
+| US-4 | | | | | | | Backlog |
+
+Tareas (por historia)
+- US-3:
+  - T1: ...
+- US-4:
+  - T1: ...
+
+---
+
+## Checklist para Sprint Planning
+- [ ] Revisar objetivo del sprint con PO
+- [ ] Seleccionar historias de mayor prioridad que quepan en la capacidad
+- [ ] Definir criterios de aceptación claros por historia
+- [ ] Descomponer historias en tareas y estimar horas
+- [ ] Confirmar responsables
+- [ ] Actualizar tablero (issues/cards)
+
+---
+
+## Daily Standup (plantilla)
+- ¿Qué hice ayer?
+- ¿Qué haré hoy?
+- ¿Bloqueos / impedimentos?
+Duración: 15 min, misma hora y lugar (o canal).
+
+---
+
+## Revisión del Sprint (Sprint Review)
+- Fecha y asistentes:
+- Historias completadas (referencias a issues/PRs):
+- Demo (qué se mostró):
+- Feedback del PO / stakeholders:
+- Acciones / decisiones tomadas:
+
+---
+
+## Retrospectiva (plantilla simple)
+1. Qué fue bien
+2. Qué no fue bien
+3. Acciones a tomar (owner + fecha)
+
+Ejemplo de formato:
+- Start: (nueva práctica a empezar)
+- Stop: (práctica a dejar)
+- Continue: (práctica a mantener)
+
+Registro de acciones:
+- Acción 1 — Responsable — Fecha objetivo
+- Acción 2 — Responsable — Fecha objetivo
+
+---
+
+## Definición de "Done" (DoD) sugerida
+- Código revisado y mergeado (PR aprobado)
+- Tests automáticos ejecutados y pasados
+- Documentación mínima actualizada (README/CHANGELOG si procede)
+- Despliegue en entorno de staging (si aplica)
+- QA aceptado / PO acepta criterios de aceptación
+
+---
+
+## Cronograma de reuniones (sugerido)
+- Sprint Planning: Día 0 (X horas)
+- Daily: Todos los días (15 min)
+- Sprint Review: Último día (1h)
+- Retrospectiva: Último día después de review (45-60 min)
+
+---
+
+## Plantillas rápidas para issues (copiar/pegar)
+
+Historia de usuario (Issue)
+Title: US-<n>: [Breve descripción]
+Body:
+- Descripción:
+- Criterios de aceptación:
+  - [ ] Criterio 1
+  - [ ] Criterio 2
+- Estimación (puntos):
+- Dependencias:
+- Notas:
+
+Tarea (sub-issue/checklist)
+- [ ] Tarea X — Responsable — Estimación (h)
+
+---
+
+## Notas finales
+- Ajusta la longitud de sprint según la madurez del equipo.
+- Mantén las historias pequeñas y entregables.
+- Revisa la definición de Done si cambian las necesidades de calidad.
